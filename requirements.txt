@@ -1,4 +1,4 @@
-langchain 
-openai 
-streamlit 
-pypdf 
+langchain
+openai
+streamlit
+pypdf
