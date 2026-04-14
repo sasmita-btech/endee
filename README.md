@@ -26,3 +26,10 @@ python app.py
 
 ## Endee Usage
 Endee is used as a vector database to store and retrieve embeddings efficiently.
+## Conclusion
+This project demonstrates a basic implementation of Retrieval-Augmented Generation (RAG) using Endee as a vector database. It enables semantic search over document data.
+
+## Future Scope
+- Add chatbot interface
+- Implement real-time querying
+- Integrate OpenAI for answer generation
