@@ -53,3 +53,14 @@ This project demonstrates a basic implementation of Retrieval-Augmented Generati
 ## Output
 - Displays number of chunks
 - Shows retrieved text based on query
+
+## Screenshots
+
+### Code
+
+![Code Screenshot 1](code1.png)
+![Code Screenshot 2](code2.png)
+
+### Output
+
+![Output Screenshot](output.png)
